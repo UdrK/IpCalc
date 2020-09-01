@@ -1,5 +1,6 @@
 # IpCalc
 IpCalc - Java GUI analog to linux's ipcalc utility
+
 You insert an Ip address, the calculator returns binary conversions, network address and all sorts of things.
 
 Screenshot of iPCalc in action:
